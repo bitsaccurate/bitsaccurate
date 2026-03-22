@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://bitsaccurate.in/assets/logo.png" alt="BitsAccurate Logo" width="120"/>
+<img src="[https://bitsaccurate.in/assets/logo.png](https://drive.google.com/file/d/1ktn75-XK67IEZKxIHX_woyDh0lOoD6Qt/view?usp=sharing)" alt="BitsAccurate Logo" width="120"/>
 
 # BitsAccurate
 
@@ -104,7 +104,7 @@ Have an idea? We'd love to hear it.
 
 - 🌐 **Website:** [bitsaccurate.in](https://bitsaccurate.in)
 - 📧 **Email:** [bitsaccurate@gmail.com](mailto:bitsaccurate@gmail.com)
-- 📞 **Phone:** +91 8789812908
+- 📞 **Phone:** +91 8789812908 | +91 9631319872
 - 💼 **LinkedIn:** [linkedin.com/company/bitsaccurate](https://linkedin.com/company/bitsaccurate)
 
 ---
