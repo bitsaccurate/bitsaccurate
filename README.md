@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[https://bitsaccurate.in/assets/logo.png](https://drive.google.com/file/d/1ktn75-XK67IEZKxIHX_woyDh0lOoD6Qt/view?usp=sharing)" alt="BitsAccurate Logo" width="120"/>
+<img src="https://drive.google.com/file/d/1ktn75-XK67IEZKxIHX_woyDh0lOoD6Qt/view?usp=sharing" alt="BitsAccurate Logo" width="120"/>
 
 # BitsAccurate
 
